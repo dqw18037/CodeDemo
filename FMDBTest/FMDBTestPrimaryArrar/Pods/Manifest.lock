@@ -1,0 +1,15 @@
+PODS:
+  - FMDB (2.6):
+    - FMDB/standard (= 2.6)
+  - FMDB/standard (2.6)
+  - JSONKit (1.4)
+
+DEPENDENCIES:
+  - FMDB
+  - JSONKit
+
+SPEC CHECKSUMS:
+  FMDB: c1968bab3ab0aed38f66cb778ae1e7fa9a652b6e
+  JSONKit: 5b69e804ea54d99293eed0fd2ce596c5703fefb0
+
+COCOAPODS: 0.39.0
